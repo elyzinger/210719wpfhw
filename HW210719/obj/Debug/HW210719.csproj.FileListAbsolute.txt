@@ -1,0 +1,18 @@
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719_MarkupCompile.cache
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719_MarkupCompile.lref
+C:\Users\USER\source\repos\HW210719\HW210719\bin\Debug\HW210719.exe.config
+C:\Users\USER\source\repos\HW210719\HW210719\bin\Debug\HW210719.exe
+C:\Users\USER\source\repos\HW210719\HW210719\bin\Debug\HW210719.pdb
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719.g.resources
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719.Properties.Resources.resources
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719.exe
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719.pdb
+C:\Users\USER\source\repos\HW210719\HW210719\bin\Debug\Resources\pokaball4.jpg
+C:\Users\USER\source\repos\HW210719\HW210719\bin\Debug\Resources\Duncan Laurence - Arcade - Official Music Video - The Netherlands 🇳🇱 - Eurovision 2019.mp4
+C:\Users\USER\source\repos\HW210719\HW210719\obj\Debug\HW210719_Content.g.cs
